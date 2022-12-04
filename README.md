@@ -9,4 +9,6 @@ lets do some changes in the browser
 
 now do changes in Rstudio
 
-opened a new branch hwb01
+opened a new branch hwb01 in GitHub Desktop
+
+do changes in Rstudio again
